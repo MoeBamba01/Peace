@@ -1,0 +1,1 @@
+console.log(!! NaN == !!undefined && 6 >= !!Infinity);
